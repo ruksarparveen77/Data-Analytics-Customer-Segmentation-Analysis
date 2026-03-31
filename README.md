@@ -158,6 +158,6 @@ jupyter notebook analysis.ipynb
 
 ## 👤 Author
 
-**Your Name**  
+**Ruksar Parveen**  
 Data Analytics Portfolio Project  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+
